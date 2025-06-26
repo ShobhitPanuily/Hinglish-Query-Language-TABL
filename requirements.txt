@@ -1,3 +1,4 @@
 streamlit
 ply
 pandas
+streamlit-ace
