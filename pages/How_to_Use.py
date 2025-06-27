@@ -135,7 +135,7 @@ delete_df = pd.DataFrame({
 })
 st.table(delete_df)
 
-st.markdown("### ✏️ 6. Update Data (badal)")
+st.markdown("### 6. Update Data (badal)")
 st.markdown("""
 Use `badal ... set kar` to modify existing entries.
 
